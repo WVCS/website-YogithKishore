@@ -1,3 +1,38 @@
-body {
-
+body{
+  background-color: #3E7CB1;
+}
+h1{
+  font-size: 200%;
+  letter-spacing: 2px;
+  color: #DBE4EE;
+  text-decoration: underline;
+  text-decoration-color: #F17300;
+  font-family: "Papyrus";
+}
+p{
+  font-size : 150%;
+  color: #DBE4EE;
+}
+img{
+  width: 350px;
+  border-style: ridge;
+  border-color: #054A91;
+}
+ul{
+  text-align: center;
+  list-style-type: none;
+  font-family: "Papyrus";
+  position: fixed;
+}
+li{
+  float: center;
+}
+li a{
+  padding: 1px;
+  color: #DBE4EE;
+  border: dashed;
+}
+li a:hover{
+  background-color: #ABDAFC;
+  font-family: verdana;
 }
