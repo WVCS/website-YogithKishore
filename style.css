@@ -36,3 +36,45 @@ li a:hover{
   background-color: #ABDAFC;
   font-family: verdana;
 }
+
+body{
+  background-color: #3E7CB1;
+}
+h1{
+  font-size: 200%;
+  letter-spacing: 2px;
+  color: #DBE4EE;
+  text-decoration: underline;
+  text-decoration-color: #F17300;
+  font-family: "Papyrus";
+}
+H3{
+  font-size : 125%;
+  color: #DBE4EE;
+  font-family: "Papyrus";
+}
+p1{
+  font-size : 125%;
+  color : #DBE4EE;
+  font-family: "Papyrus";
+}
+H3{
+  font-size : 125%;
+  color : #DBE4EE;
+  font-family: "Papyrus";
+}
+p2{
+  font-size : 125%;
+  color : #DBE4EE;
+  font-family: "Papyrus";
+}
+p3{
+  font-size : 125%;
+  color : #DBE4EE;
+  font-family: "Papyrus";
+}
+img{
+  width: 500px;
+  border-style: ridge;
+  border-color: #054A91;
+}
